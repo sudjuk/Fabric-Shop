@@ -52,3 +52,20 @@ pyinstaller main.spec
 ## Автор
 
 Горшков Владимир Максимович
+
+<img width="579" height="399" alt="image" src="https://github.com/user-attachments/assets/872e05c1-0465-43ec-b3cc-225a69cdda56" />
+<img width="664" height="459" alt="image" src="https://github.com/user-attachments/assets/77c37201-da6d-40bb-8835-bd0bec6a1497" />
+<img width="550" height="383" alt="image" src="https://github.com/user-attachments/assets/47a99ba3-066b-412d-a067-c3a8b83376f7" />
+<img width="661" height="457" alt="image" src="https://github.com/user-attachments/assets/4d75d577-6099-4a0a-a711-0c5f3a65fe00" />
+<img width="676" height="467" alt="image" src="https://github.com/user-attachments/assets/a573a160-8841-4529-9b04-04bc759bdee2" />
+<img width="820" height="564" alt="image" src="https://github.com/user-attachments/assets/dd9853ca-71da-4e61-b809-859407d01f30" />
+<img width="723" height="379" alt="image" src="https://github.com/user-attachments/assets/09502f47-64d3-4793-b76f-edb10d5bc694" />
+<img width="742" height="357" alt="image" src="https://github.com/user-attachments/assets/c01bfd76-77ec-4dce-a0f1-41093745348a" />
+
+
+
+
+
+
+
+
